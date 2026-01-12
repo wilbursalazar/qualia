@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/qualia/static/css/main.a7f26400.css",
-    "main.js": "/qualia/static/js/main.617ffc52.js",
+    "main.js": "/qualia/static/js/main.6c16d5c7.js",
     "static/js/453.d1446251.chunk.js": "/qualia/static/js/453.d1446251.chunk.js",
     "index.html": "/qualia/index.html",
     "main.a7f26400.css.map": "/qualia/static/css/main.a7f26400.css.map",
-    "main.617ffc52.js.map": "/qualia/static/js/main.617ffc52.js.map",
+    "main.6c16d5c7.js.map": "/qualia/static/js/main.6c16d5c7.js.map",
     "453.d1446251.chunk.js.map": "/qualia/static/js/453.d1446251.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a7f26400.css",
-    "static/js/main.617ffc52.js"
+    "static/js/main.6c16d5c7.js"
   ]
 }
