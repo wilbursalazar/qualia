@@ -1,5 +1,20 @@
 # Qualia Task Management App
 
+## Name
+
+Wilbur Salazar
+
+
+## Languages / tech stack
+
+html, css, react, js
+
+## Future Improvements
+- Persist todos using localStorage or a backend database
+- Add edit-in-place functionality for existing todos
+- Improve accessibility and keyboard navigation
+- Add form validation and success/error messaging to the contact form
+
 ## Overview
 Qualia is a simple React task management application built with Create React App and React Router.
 
